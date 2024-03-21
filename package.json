@@ -1,0 +1,22 @@
+{
+  "name": "quibusdamautem",
+  "version": "1.0.0",
+  "description": "SSDP discovery ripped out of nodecast-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MathiasTorp/quibusdamautem.git"
+  },
+  "keywords": [
+    "omnis"
+  ],
+  "author": "BernitaMoen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MathiasTorp/quibusdamautem.git/issues"
+  },
+  "homepage": "https://github.com/MathiasTorp/quibusdamautem.git"
+}
